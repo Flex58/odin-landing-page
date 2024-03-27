@@ -195,3 +195,13 @@ body {
     font-weight: bold;
     font-size: 18px;
  }
+
+ .footer {
+    display: flex;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    padding: 40px;
+ }
